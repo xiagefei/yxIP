@@ -1,2 +1,16 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.70.155.147,2096,true,LAX,North America,Los Angeles,313 ms,664 kB/s
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
+190.93.247.131,SJC,North America,San Jose,154 ms
+198.41.209.101,SJC,North America,San Jose,157 ms
+104.16.77.94,SJC,North America,San Jose,162 ms
+190.93.245.154,SJC,North America,San Jose,177 ms
+198.41.223.57,LAX,North America,Los Angeles,180 ms
+198.41.208.49,SJC,North America,San Jose,181 ms
+198.41.215.114,LAX,North America,Los Angeles,181 ms
+198.41.217.163,LAX,North America,Los Angeles,182 ms
+198.41.218.115,LAX,North America,Los Angeles,183 ms
+198.41.221.253,LAX,North America,Los Angeles,185 ms
+198.41.222.107,LAX,North America,Los Angeles,186 ms
+198.41.220.48,LAX,North America,Los Angeles,191 ms
+198.41.214.135,LAX,North America,Los Angeles,195 ms
+198.41.216.133,LAX,North America,Los Angeles,198 ms
+
